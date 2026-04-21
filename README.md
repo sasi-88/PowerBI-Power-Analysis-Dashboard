@@ -102,15 +102,7 @@ These measures enabled deeper analytical insights across visuals.
 * Productive comparisons across metrics
 * Detailed tables and drill-down capability
 
----
 
-### Target vs Actual Analysis
-
-* Renewable share vs target comparison
-* Gap analysis (Above/Below target)
-* Country performance evaluation
-
----
 
 
 ## Key Insights
